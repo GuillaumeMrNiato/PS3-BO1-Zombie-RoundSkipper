@@ -1,0 +1,12 @@
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\bin\Debug\Round Skipper.exe.config
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\bin\Debug\Round Skipper.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\bin\Debug\Round Skipper.pdb
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\bin\Debug\PS3Lib.xml
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\obj\Debug\Round Skipper.csprojResolveAssemblyReference.cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\obj\Debug\Round_Skipper.Form1.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\obj\Debug\Round_Skipper.Properties.Resources.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\obj\Debug\Round Skipper.csproj.GenerateResource.Cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\obj\Debug\Round Skipper.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Round Skipper\Round Skipper\obj\Debug\Round Skipper.pdb
+D:\Visual Studio\Round Skipper\Round Skipper\bin\Debug\Round Skipper.exe.config
+D:\Visual Studio\Round Skipper\Round Skipper\obj\Debug\Round Skipper.exe
