@@ -2,6 +2,10 @@
 A small round skipper for BO1 in zombie
 
 
+# Video :
+
+<a href="https://youtu.be/cwKWNKz8fY0">Here</a>
+
 
 # Follow me :
 
